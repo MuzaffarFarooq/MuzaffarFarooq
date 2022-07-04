@@ -3,6 +3,7 @@
 • 💻 IT Consultant 
 • 👨‍💻 Cross Platform App developer
 • 🌱 Learning AI & ML
+• 🎓 IT Graduate of University of Education, Lahore.
 • 🇵🇰 Burewala, Vehari, Punjab
 • 📱 (+92) 308 8541485
 • 💌 muzaffarfarooq3@gmail.com
