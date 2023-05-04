@@ -1,10 +1,11 @@
 • 😎 Muzaffar Farooq
-• 🎓 University of Education, Lahore
-• 💻 IT Consultant 
+• 💻 Web Developer
+• 👨‍💻 MERN Stack Developer
 • 👨‍💻 Cross Platform App developer
+• 💻 IT Consultant 
 • 🌱 Learning AI & ML
 • 🎓 IT Graduate of University of Education, Lahore.
-• 🇵🇰 Burewala, Vehari, Punjab
+• 🇵🇰  Lahore, Punjab
 • 📱 (+92) 308 8541485
 • 💌 muzaffarfarooq3@gmail.com
 
